@@ -1,7 +1,7 @@
 #EXTM3U
  
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos!(44)998656144
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos!(44)991045772
 https://www.youtube.com/channel/UCojJlqr
  
 #EXTINF:0 tvg-logo="http://icons.iconarchive.com/icons/sicons/basic-round-social/512/twitter-icon.png" group-title="CONTATO E DOAÇÃO", TWITTER: @dirceu
