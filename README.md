@@ -12295,3 +12295,698 @@ http://dns.maxptv.net:2052/movie/PEM21/1010/139397.mp4
 http://dns.maxptv.net:2052/movie/PEM21/1010/139398.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hellraiser: O Julgamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPw85zUzRazUPFRtGbmTMccgNHX.jpg" group-title="Filmes | Terror",Hellraiser: O Julgamento
 http://dns.maxptv.net:2052/movie/PEM21/1010/139416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Interesse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZlZ1hcmP6KkZfXxXcNngaFzMcS.jpg" group-title="Filmes | Drama",Zona de Interesse
+http://dns.maxptv.net:2052/movie/PEM21/1010/139417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino que Descobriu o Vento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZofpz4gmiH7MQAYWrgvTtdIq3l.jpg" group-title="Filmes | Drama",O Menino que Descobriu o Vento
+http://dns.maxptv.net:2052/movie/PEM21/1010/139442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Violencia Explicita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QrzjL1RbLhFnDyUDflFbROHtii.jpg" group-title="Filmes | Terror",Violencia Explicita
+http://dns.maxptv.net:2052/movie/PEM21/1010/139443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madu (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kF738LTEcnAp7IEpKAfMf9ejGOA.jpg" group-title="Filmes | Documentarios",Madu (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imaginario: Brinquedo Diabolico (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWmBAbqUIgn2Ysy513rqSYE0fYk.jpg" group-title="Filmes | Terror",Imaginario: Brinquedo Diabolico (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imaginario: Brinquedo Diabolico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWmBAbqUIgn2Ysy513rqSYE0fYk.jpg" group-title="Filmes | Terror",Imaginario: Brinquedo Diabolico
+http://dns.maxptv.net:2052/movie/PEM21/1010/139447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Repente 30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZewXNdHKpRE0LrJhj07bWkwQm4.jpg" group-title="Filmes | Comedia",De Repente 30
+http://dns.maxptv.net:2052/movie/PEM21/1010/139448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartas para Deus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAOFFWAxho3NmJlrJL9V8v9gT8q.jpg" group-title="Filmes | Drama",Cartas para Deus
+http://dns.maxptv.net:2052/movie/PEM21/1010/139449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Predestinado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udQKSwULzhqCpytrg084pJXw996.jpg" group-title="Filmes | Drama",Predestinado
+http://dns.maxptv.net:2052/movie/PEM21/1010/139450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sala dos Professores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqoSts6QMQsSDpeuR21OzXUZLSJ.jpg" group-title="Filmes | Drama",A Sala dos Professores
+http://dns.maxptv.net:2052/movie/PEM21/1010/139451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descanse em Paz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3TFEdIpzNC609G0pEV6FOlHCAg.jpg" group-title="Filmes | Drama",Descanse em Paz
+http://dns.maxptv.net:2052/movie/PEM21/1010/139452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wish: O Poder dos Desejos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNk5KbBx0dLKdWgW06DAIZcwO0v.jpg" group-title="Filmes | Animacao",Wish: O Poder dos Desejos
+http://dns.maxptv.net:2052/movie/PEM21/1010/139453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wildcat - Prisioneira de Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bE2vVe6lREydPEOh4iB2TjGIpye.jpg" group-title="Filmes | Suspense ",Wildcat - Prisioneira de Guerra
+http://dns.maxptv.net:2052/movie/PEM21/1010/139454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tamara" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvwl9p8UOKeRqVZaVCukFKj9zkf.jpg" group-title="Filmes | Terror",Tamara
+http://dns.maxptv.net:2052/movie/PEM21/1010/139499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo ou Nada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qw7w0xKy86DJuuJwNszuDtTFwcH.jpg" group-title="Filmes | Acao",Tudo ou Nada
+http://dns.maxptv.net:2052/movie/PEM21/1010/139508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ecos do Passado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKfsrotIlbjas1g31e9lMTFMqeo.jpg" group-title="Filmes | Drama",Ecos do Passado
+http://dns.maxptv.net:2052/movie/PEM21/1010/139509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente X: A Ultima Missão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXbHAgNxlb8KfWDbpj1O4TNatkH.jpg" group-title="Filmes | Acao",Agente X: A Ultima Missão
+http://dns.maxptv.net:2052/movie/PEM21/1010/139511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Musica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bA8vQ9hnf41T5z68ISyb3LyzbHk.jpg" group-title="Filmes | Romance",Musica
+http://dns.maxptv.net:2052/movie/PEM21/1010/139513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJlrSiA7kVBjiOnWTKg2hDS6SfU.jpg" group-title="Filmes | Drama",A Escolha
+http://dns.maxptv.net:2052/movie/PEM21/1010/139514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rodeio Rock" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yF6DYBbShJuKbUShdU8UFVquk8i.jpg" group-title="Filmes | Romance",Rodeio Rock
+http://dns.maxptv.net:2052/movie/PEM21/1010/139515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Dança dos Passaros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufi71bkr6WNAriSM8jmJkv0M50q.jpg" group-title="Filmes | Drama",A Dança dos Passaros
+http://dns.maxptv.net:2052/movie/PEM21/1010/139516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Conquistar o Billy Walsh" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXxjyGIWnU02E5VixGhR6sVcRRG.jpg" group-title="Filmes | Romance",Como Conquistar o Billy Walsh
+http://dns.maxptv.net:2052/movie/PEM21/1010/139518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fabricante de Lagrimas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOM6dZZa9kfHcyDCIP7Vtg7mQyz.jpg" group-title="Filmes | Romance",O Fabricante de Lagrimas
+http://dns.maxptv.net:2052/movie/PEM21/1010/139519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW7Jh4IpACUwKUnSzdG73r9jsMl.jpg" group-title="Filmes | Terror",Colheita Maldita
+http://dns.maxptv.net:2052/movie/PEM21/1010/139520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita 2: O Sacrifício Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87mferN7VuRY4tZvZvO4KQZxTST.jpg" group-title="Filmes | Terror",Colheita Maldita 2: O Sacrifício Final
+http://dns.maxptv.net:2052/movie/PEM21/1010/139521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita 3: A Colheita Urbana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyqVBvfQk7PPmY7rOGsleqnPHuI.jpg" group-title="Filmes | Terror",Colheita Maldita 3: A Colheita Urbana
+http://dns.maxptv.net:2052/movie/PEM21/1010/139522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita 4: O Encontro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h6o0U6KuocYGIhkFIVVFa7c9C0j.jpg" group-title="Filmes | Terror",Colheita Maldita 4: O Encontro
+http://dns.maxptv.net:2052/movie/PEM21/1010/139523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita 5: Campos do Terror" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MgNa8JE739eiasSOifeoKts2G4.jpg" group-title="Filmes | Terror",Colheita Maldita 5: Campos do Terror
+http://dns.maxptv.net:2052/movie/PEM21/1010/139524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita 666" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEXiSX2MOhbLgobtVcwy1iHEe9b.jpg" group-title="Filmes | Terror",Colheita Maldita 666
+http://dns.maxptv.net:2052/movie/PEM21/1010/139525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colheita Maldita 7: A Revelação (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gErSezmqcToX80dCAke1P93Sl1M.jpg" group-title="Filmes | Terror",Colheita Maldita 7: A Revelação (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Ridículas Ferias de Eddie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/np6BwmELRi9viJjxA2J7r7nyr1G.jpg" group-title="Filmes | Comedia",As Ridículas Ferias de Eddie
+http://dns.maxptv.net:2052/movie/PEM21/1010/139533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferias Frustradas de Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSkGfMmrtNqd3MmFtBFoq1Ruc8p.jpg" group-title="Filmes | Comedia",Ferias Frustradas de Natal
+http://dns.maxptv.net:2052/movie/PEM21/1010/139534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferias Frustradas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aXOPr98PcLiWpY5oscttIg1Z8dC.jpg" group-title="Filmes | Comedia",Ferias Frustradas
+http://dns.maxptv.net:2052/movie/PEM21/1010/139535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Entrevista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUurIBIrzirFZErIp1XWgIxWZ9f.jpg" group-title="Filmes | Drama",A Grande Entrevista
+http://dns.maxptv.net:2052/movie/PEM21/1010/139542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Rede Antissocial: Dos Memes ao Caos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vzxO1KcwbW7uPGabTxJ0HKmYUS.jpg" group-title="Filmes | Documentarios",A Rede Antissocial: Dos Memes ao Caos
+http://dns.maxptv.net:2052/movie/PEM21/1010/139543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garra de Ferro (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzYxCgCsllrLwhMR4gbTk2gfFm6.jpg" group-title="Filmes | Drama",Garra de Ferro (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Garotos Perdidos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlzkIfReoFJbPkbV67NcsuMcu6T.jpg" group-title="Filmes | Terror",Os Garotos Perdidos
+http://dns.maxptv.net:2052/movie/PEM21/1010/139545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13º Andar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Wv6a0yNxTl7NH1f0FbPYC2kZvg.jpg" group-title="Filmes | Ficcao Cientifica",13º Andar
+http://dns.maxptv.net:2052/movie/PEM21/1010/139558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atração Explosiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0JkKNhVwDk04QrNqMtkBKvU1Pf.jpg" group-title="Filmes | Acao",Atração Explosiva
+http://dns.maxptv.net:2052/movie/PEM21/1010/139559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra é Guerra!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUEzblqCHgmyTIgVSPw49jx3a8Z.jpg" group-title="Filmes | Comedia",Guerra é Guerra!
+http://dns.maxptv.net:2052/movie/PEM21/1010/139561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nao Tem Volta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g1or9dR9KYRJy0lFXQpZ0kAqtC.jpg" group-title="Filmes | Comedia",Nao Tem Volta
+http://dns.maxptv.net:2052/movie/PEM21/1010/139562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo de Marrowbone" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94Uo1TNBKzA5iBl5zOOrdTuWV9f.jpg" group-title="Filmes | Suspense ",O Segredo de Marrowbone
+http://dns.maxptv.net:2052/movie/PEM21/1010/139590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paprika" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aD0uIqGX3xdmUF2Ol2nvhJsfL5C.jpg" group-title="Filmes | Animacao",Paprika
+http://dns.maxptv.net:2052/movie/PEM21/1010/139591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Splice - A Nova Especie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxZibGnPJJTq47J63RUSxG2vDf5.jpg" group-title="Filmes | Ficcao Cientifica",Splice - A Nova Especie
+http://dns.maxptv.net:2052/movie/PEM21/1010/139592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nome Proprio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWYVveTiUqNApvIUlONMbsUXyCv.jpg" group-title="Filmes | Nacionais",Nome Proprio
+http://dns.maxptv.net:2052/movie/PEM21/1010/139593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Herdeiro do Diabo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAHTpUpXfF0YOLmTegrFk39AP1R.jpg" group-title="Filmes | Terror",O Herdeiro do Diabo
+http://dns.maxptv.net:2052/movie/PEM21/1010/139594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ao Seu Lado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50FY71LggmNf7BGvOY4uTU46spi.jpg" group-title="Filmes | Romance",Ao Seu Lado (2022)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa dos Mortos: Baghead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hV1duOiPt8o4JxUltlSbYXMJehf.jpg" group-title="Filmes | Terror",A Bruxa dos Mortos: Baghead
+http://dns.maxptv.net:2052/movie/PEM21/1010/139596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="8mm 2: Oito Milimetros 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXvzftHNQMJ4lBEfJB6N6D892BQ.jpg" group-title="Filmes | Policial",8mm 2: Oito Milimetros 2
+http://dns.maxptv.net:2052/movie/PEM21/1010/139597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alta Tensão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lP3vxzHWHa00Y0qQXLXozNIRRq8.jpg" group-title="Filmes | Terror",Alta Tensão
+http://dns.maxptv.net:2052/movie/PEM21/1010/139602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Degeneração" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aC9RinOuPR6DEgwAZZd9IzUA6Qa.jpg" group-title="Filmes | Animacao",Resident Evil: Degeneração
+http://dns.maxptv.net:2052/movie/PEM21/1010/139603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invocação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar7gJkwC8XrQtNJOtHC9GYg0bVh.jpg" group-title="Filmes | Terror",A Invocação
+http://dns.maxptv.net:2052/movie/PEM21/1010/139604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sede de Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws1teH5HrnDBzKn7xYq45RR9hsG.jpg" group-title="Filmes | Suspense ",Sede de Vingança
+http://dns.maxptv.net:2052/movie/PEM21/1010/139605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF0R9nx8gtne6tdhVt4lMxXXVvE.jpg" group-title="Filmes | Animacao",Resident Evil: A Vingança
+http://dns.maxptv.net:2052/movie/PEM21/1010/139606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Birdman ou (A Inesperada Virtude da Ignorância)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg" group-title="Filmes | Drama",Birdman ou (A Inesperada Virtude da Ignorância)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Voo United 93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPq0oTWflzK0BI1QjhPbsFwxhDp.jpg" group-title="Filmes | Drama",Voo United 93
+http://dns.maxptv.net:2052/movie/PEM21/1010/139611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beethoven: O Magnifico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKs4z6DLqu1F541leNhIXdE4wyH.jpg" group-title="Filmes | Comedia",Beethoven: O Magnifico
+http://dns.maxptv.net:2052/movie/PEM21/1010/139612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YgD36jE4A7zOr5opnbFarNHN0j.jpg" group-title="Filmes | Terror",A Ultima Casa
+http://dns.maxptv.net:2052/movie/PEM21/1010/139613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Agentes do Destino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvepcobwgtLwCplwBihcvlgqd0A.jpg" group-title="Filmes | Ficcao Cientifica",Os Agentes do Destino
+http://dns.maxptv.net:2052/movie/PEM21/1010/139614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Evereste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PkYTktwBeaB7xbBatMJmAY67lD.jpg" group-title="Filmes | Aventura",Evereste
+http://dns.maxptv.net:2052/movie/PEM21/1010/139615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome Era Eileen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h71cz1w2xMN5rErxlB4LMnRVk5k.jpg" group-title="Filmes | Suspense ",Meu Nome Era Eileen
+http://dns.maxptv.net:2052/movie/PEM21/1010/139617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Cupido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht0NQOtWDruYXDBfO8NZMdWdUDM.jpg" group-title="Filmes | Romance",Projeto Cupido
+http://dns.maxptv.net:2052/movie/PEM21/1010/139618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ReNascer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjjwYBk21klwdD86bxPro54qqaC.jpg" group-title="Filmes | Terror",ReNascer
+http://dns.maxptv.net:2052/movie/PEM21/1010/139620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nome da Rosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6U4vBbAop4344tMnzdu8pN7Qy.jpg" group-title="Filmes | Suspense ",O Nome da Rosa
+http://dns.maxptv.net:2052/movie/PEM21/1010/139682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reencarnação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MkaYWKrR3JBP1XmUM07Sq4Agk8.jpg" group-title="Filmes | Drama",Reencarnação
+http://dns.maxptv.net:2052/movie/PEM21/1010/139683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Delicadeza do Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flj2uNvlfldgPpccXBkQ8Nefrmm.jpg" group-title="Filmes | Romance",A Delicadeza do Amor
+http://dns.maxptv.net:2052/movie/PEM21/1010/139684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segredos de Sangue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrgX5ehGAXhnuyAZfCqkZMtdzUP.jpg" group-title="Filmes | Terror",Segredos de Sangue
+http://dns.maxptv.net:2052/movie/PEM21/1010/139685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Me Sinto Bem Com Voce" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9warWIwUNNKQ6Bn40Us2GvEojj.jpg" group-title="Filmes | Romance",Me Sinto Bem Com Voce
+http://dns.maxptv.net:2052/movie/PEM21/1010/139686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Homens Preferem as Loiras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uf3dOwFz7zA3FQm4SSBFks69O5U.jpg" group-title="Filmes | Clássicos",Os Homens Preferem as Loiras
+http://dns.maxptv.net:2052/movie/PEM21/1010/139720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profecia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHemQhtg5n5jPYMLeFFTPfMsvFE.jpg" group-title="Filmes | Terror",A Profecia
+http://dns.maxptv.net:2052/movie/PEM21/1010/139721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profecia 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izID2fUZbp1b1RvuO1GRqQIPW7K.jpg" group-title="Filmes | Terror",A Profecia 2
+http://dns.maxptv.net:2052/movie/PEM21/1010/139722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profecia 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B8MTqjDbx26ULnEyyV5vta13Ho.jpg" group-title="Filmes | Terror",A Profecia 3
+http://dns.maxptv.net:2052/movie/PEM21/1010/139723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Profecia 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuiMLMTFOkzXj0nvp6O5kind0iv.jpg" group-title="Filmes | Terror",A Profecia 4
+http://dns.maxptv.net:2052/movie/PEM21/1010/139724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Reino dos Gatos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCmU60poVbBhPdzIipgHNEDJuly.jpg" group-title="Filmes | Animacao",O Reino dos Gatos
+http://dns.maxptv.net:2052/movie/PEM21/1010/139725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fale com Ela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWigIdXSA6X3Iw8HRfnweXjETf.jpg" group-title="Filmes | Drama",Fale com Ela
+http://dns.maxptv.net:2052/movie/PEM21/1010/139732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malditas Aranhas!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTI1y2ePzTxqlHAJHpDtWZH0OCz.jpg" group-title="Filmes | Acao",Malditas Aranhas!
+http://dns.maxptv.net:2052/movie/PEM21/1010/139733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honra e Coragem As Quatro Plumas " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUcJURI1ZuErobKNzeqBsfdOVL5.jpg" group-title="Filmes | Aventura",Honra e Coragem As Quatro Plumas 
+http://dns.maxptv.net:2052/movie/PEM21/1010/139734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longe do Paraiso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dy9wNpDu497pHkSjuCvgB2i8O2D.jpg" group-title="Filmes | Romance",Longe do Paraiso
+http://dns.maxptv.net:2052/movie/PEM21/1010/139735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mentiroso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRfa79dwJkLtVJjYLnCoPNLPz5.jpg" group-title="Filmes | Aventura",O Grande Mentiroso
+http://dns.maxptv.net:2052/movie/PEM21/1010/139736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Habitantes da Escuridão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fin8WMppwDO6XoR1wcz9LTBSq0U.jpg" group-title="Filmes | Terror",Habitantes da Escuridão
+http://dns.maxptv.net:2052/movie/PEM21/1010/139737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Herança Roubada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZLo7tbOfbZWiSBsWz2tKWdSKmj.jpg" group-title="Filmes | Drama",Herança Roubada
+http://dns.maxptv.net:2052/movie/PEM21/1010/139762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Possessões" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbf1LkidorzXo2yI9pbjH23YJRr.jpg" group-title="Filmes | Terror",Possessões
+http://dns.maxptv.net:2052/movie/PEM21/1010/139763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pica Pau: As Férias no Acampamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2INtXKQGxQLT6MhztartxiammuC.jpg" group-title="Filmes | Animacao",Pica Pau: As Férias no Acampamento
+http://dns.maxptv.net:2052/movie/PEM21/1010/139764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Jennifer Fez" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IY8XqXmABgT50bvUfJr1rbG1Sv.jpg" group-title="Filmes | Documentarios",O Que Jennifer Fez
+http://dns.maxptv.net:2052/movie/PEM21/1010/139765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plataforma do Medo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIN8vaLXePWrCRGgaLBz8fTg4Y0.jpg" group-title="Filmes | Terror",Plataforma do Medo
+http://dns.maxptv.net:2052/movie/PEM21/1010/139766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vertigem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdFpgtjrCmU4yB7PapB8H88XtYY.jpg" group-title="Filmes | Acao",Vertigem
+http://dns.maxptv.net:2052/movie/PEM21/1010/139767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fora de Controle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVv91KbPaP2ngPe8HoytUgWLBAh.jpg" group-title="Filmes | Suspense ",Fora de Controle
+http://dns.maxptv.net:2052/movie/PEM21/1010/139768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Gigante Amigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAbbJPbRnY8TRwFure08S7SWnM9.jpg" group-title="Filmes | Aventura",O Bom Gigante Amigo
+http://dns.maxptv.net:2052/movie/PEM21/1010/139769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duna Parte Dois (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg" group-title="Filmes | Ficcao Cientifica",Duna Parte Dois (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duna Parte Dois" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8pI4XkYgUMuSJ8cEFbJE18wc4e.jpg" group-title="Filmes | Ficcao Cientifica",Duna Parte Dois
+http://dns.maxptv.net:2052/movie/PEM21/1010/139806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perseguição Obsessiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJZUKI0kYw83nDf5HxgBDFUhHyf.jpg" group-title="Filmes | Terror",Perseguição Obsessiva
+http://dns.maxptv.net:2052/movie/PEM21/1010/139807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alucinações do Passado 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRYFV0bG0vhlwkW2nU5V09wdhHs.jpg" group-title="Filmes | Terror",Alucinações do Passado 2
+http://dns.maxptv.net:2052/movie/PEM21/1010/139808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crianças Malignas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y87tY5BbG3zL1MGV5RhGy1iKw3.jpg" group-title="Filmes | Terror",Crianças Malignas
+http://dns.maxptv.net:2052/movie/PEM21/1010/139809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Ultimos Dias de Copacabana Jack" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acVJ0bUTNR9bpdziUwcrq1G1tmR.jpg" group-title="Filmes | Nacionais",Os Ultimos Dias de Copacabana Jack
+http://dns.maxptv.net:2052/movie/PEM21/1010/139810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Tres Mosqueteiros: Milady" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsOK6mqsmddKmiEtLReV6nlbuW0.jpg" group-title="Filmes | Aventura",Os Tres Mosqueteiros: Milady
+http://dns.maxptv.net:2052/movie/PEM21/1010/139812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Parede entre Nós" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5P0KKvPwIFeQnIn9clAOCJBuRsj.jpg" group-title="Filmes | Romance",Uma Parede entre Nós
+http://dns.maxptv.net:2052/movie/PEM21/1010/139813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Macaco vs Maquina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isXDRoaeOm7BJVXVwPzPTnKWKqi.jpg" group-title="Filmes | Acao",Macaco vs Maquina
+http://dns.maxptv.net:2052/movie/PEM21/1010/139814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Jornada Entre Amigos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hE9ToZRWcEd3jh96gbhKjWlUOQa.jpg" group-title="Filmes | Drama",Uma Jornada Entre Amigos
+http://dns.maxptv.net:2052/movie/PEM21/1010/139815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SDL A Batalha Musical" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiYroOiA7PCwjmxRnMst6jfxXFY.jpg" group-title="Filmes | Comedia",SDL A Batalha Musical
+http://dns.maxptv.net:2052/movie/PEM21/1010/139816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grandes Hits (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3FgOZAry9jbMDvPti6UozQum6p.jpg" group-title="Filmes | Romance",Grandes Hits (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sleep O Mal Nunca Dorme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQCDmuAFQYKaOIQCnH4X7NlTzVn.jpg" group-title="Filmes | Terror",Sleep O Mal Nunca Dorme
+http://dns.maxptv.net:2052/movie/PEM21/1010/139818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eurotrip Passaporte para a Confusao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnzfFPhJZLdJS40nzvhNyfZ0ahD.jpg" group-title="Filmes | Comedia",Eurotrip Passaporte para a Confusao
+http://dns.maxptv.net:2052/movie/PEM21/1010/139888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontro de Casais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hR52K4R1eGAj2VYno6t6pCTlphA.jpg" group-title="Filmes | Comedia",Encontro de Casais
+http://dns.maxptv.net:2052/movie/PEM21/1010/139889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ave Cesar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osT5RueioIRlOxaE9tSj8JABuFU.jpg" group-title="Filmes | Comedia",Ave Cesar
+http://dns.maxptv.net:2052/movie/PEM21/1010/139890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Personal Shopper" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHqkTghcdDdrvemQL7wPqzDS7Zl.jpg" group-title="Filmes | Drama",Personal Shopper
+http://dns.maxptv.net:2052/movie/PEM21/1010/139891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nossas Meninas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QHA9UXs34jB1IxeitCgOdWmr5Z.jpg" group-title="Filmes | Comedia",Nossas Meninas
+http://dns.maxptv.net:2052/movie/PEM21/1010/139892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Teia (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZmKvpPlJTh0ItvyP0ADvPiTdnz.jpg" group-title="Filmes | Suspense ",A Teia (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg" group-title="Filmes | Lancamentos",Kung Fu Panda 4 (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imaculada (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bTGVenx0mUnuy4cx4vWtuYHY5Q.jpg" group-title="Filmes | Terror",Imaculada (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cara Cade Meu Carro?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1YxKBtIpPRS1kCX46mnKtwFkuE.jpg" group-title="Filmes | Comedia",Cara Cade Meu Carro?
+http://dns.maxptv.net:2052/movie/PEM21/1010/139906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morgan A Evolução" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilNXSi7ENjoiZh9hNIpUbjlZE6J.jpg" group-title="Filmes | Ficcao Cientifica",Morgan A Evolução
+http://dns.maxptv.net:2052/movie/PEM21/1010/139907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Teoria da Popularidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGPTbZTdmYgAuS58hY2JAI7B1Mx.jpg" group-title="Filmes | Comedia",Minha Teoria da Popularidade
+http://dns.maxptv.net:2052/movie/PEM21/1010/139909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Impuratus A Confissão do Diabo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoxXcTlZTqNX3qiYaxUxLdM39nq.jpg" group-title="Filmes | Terror",Impuratus A Confissão do Diabo
+http://dns.maxptv.net:2052/movie/PEM21/1010/139910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Medo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCDb2U7nlTHjFUoHcejyYCB0WHB.jpg" group-title="Filmes | Terror",Medo
+http://dns.maxptv.net:2052/movie/PEM21/1010/139911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plano de Aposentadoria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svRPl0vKtvtIAV1baUTcTiRlzsZ.jpg" group-title="Filmes | Comedia",Plano de Aposentadoria
+http://dns.maxptv.net:2052/movie/PEM21/1010/139912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nevoa Prateada (Silver Haze) (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrzKOOLFHAjgVP1EhRePLEQwP4n.jpg" group-title="Filmes | Drama",Nevoa Prateada (Silver Haze) (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon Parte 2: A Marcadora de Cicatrizes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkP50MUDBqt4JqDEwxk32wUHePk.jpg" group-title="Filmes | Ficcao Cientifica",Rebel Moon Parte 2: A Marcadora de Cicatrizes
+http://dns.maxptv.net:2052/movie/PEM21/1010/139921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Herois nao tem Idade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0IpltcGFkUD7vEFggGzo7xIrZq.jpg" group-title="Filmes | Aventura",Os Herois nao tem Idade
+http://dns.maxptv.net:2052/movie/PEM21/1010/139972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferrari (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwvIirDw4fKy491PpjSMda28SoN.jpg" group-title="Filmes | Drama",Ferrari (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jV5eAsOTf7zsL4glY51gTW6Vb05.jpg" group-title="Filmes | Terror",Atividade Paranormal
+http://dns.maxptv.net:2052/movie/PEM21/1010/139974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5HB4qTAXaJChd17gatZjx7RgzH.jpg" group-title="Filmes | Terror",Atividade Paranormal 2
+http://dns.maxptv.net:2052/movie/PEM21/1010/139975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwscDaCliM8SbLNJYogjRbuzdCB.jpg" group-title="Filmes | Terror",Atividade Paranormal 3
+http://dns.maxptv.net:2052/movie/PEM21/1010/139976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwsUPIYTHYZ3fv20Py7TkdMSCxQ.jpg" group-title="Filmes | Terror",Atividade Paranormal 4
+http://dns.maxptv.net:2052/movie/PEM21/1010/139977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal: Dimensão Fantasma" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUV4um31NFMyZwwpm6dEmd3RVON.jpg" group-title="Filmes | Terror",Atividade Paranormal: Dimensão Fantasma
+http://dns.maxptv.net:2052/movie/PEM21/1010/139978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal: Marcados Pelo Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8IqmVSFxk5NSDToMDr6lP2UyrO.jpg" group-title="Filmes | Terror",Atividade Paranormal: Marcados Pelo Mal
+http://dns.maxptv.net:2052/movie/PEM21/1010/139979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atividade Paranormal: Toquio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu4bPmvK5lSFTHpeb8Y8YcxcFKV.jpg" group-title="Filmes | Terror",Atividade Paranormal: Toquio
+http://dns.maxptv.net:2052/movie/PEM21/1010/139980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antologia da Pandemia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eyTXtfSAQyXjGP2qSYNZv5UZzy.jpg" group-title="Filmes | Terror",Antologia da Pandemia
+http://dns.maxptv.net:2052/movie/PEM21/1010/139981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garra de Ferro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzYxCgCsllrLwhMR4gbTk2gfFm6.jpg" group-title="Filmes | Drama",Garra de Ferro
+http://dns.maxptv.net:2052/movie/PEM21/1010/139982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Golpe de Milhoes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xxiDE300e1yRZz4iDoCvR2ike.jpg" group-title="Filmes | Suspense ",O Golpe de Milhoes
+http://dns.maxptv.net:2052/movie/PEM21/1010/139983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Downtown Owl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkXGsCIo643ryekY8UT6Onzrc4r.jpg" group-title="Filmes | Comedia",Downtown Owl
+http://dns.maxptv.net:2052/movie/PEM21/1010/139984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sombra do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LyFyzc2TGioGjmueMb4vD2HTvv.jpg" group-title="Filmes | Terror",A Sombra do Mal
+http://dns.maxptv.net:2052/movie/PEM21/1010/139985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Principe Lu e a Lenda do Dragao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yR2rLWHqC8aYQcG0LZD9p9tA7Mw.jpg" group-title="Filmes | Fantasia",Principe Lu e a Lenda do Dragao
+http://dns.maxptv.net:2052/movie/PEM21/1010/139990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenha Um Bom Luto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aaU3NcLJzC1SO9o2hAsosq4Q266.jpg" group-title="Filmes | Comedia",Tenha Um Bom Luto
+http://dns.maxptv.net:2052/movie/PEM21/1010/139991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bom Garoto (Good Boy)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HOEj9B6WoE3PMiSdtBIHd2kHhF.jpg" group-title="Filmes | Terror",Bom Garoto (Good Boy)
+http://dns.maxptv.net:2052/movie/PEM21/1010/139992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cegos Surdos e Loucos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyYnRSNh3g9CTJJListHFd2mfqY.jpg" group-title="Filmes | Comedia",Cegos Surdos e Loucos
+http://dns.maxptv.net:2052/movie/PEM21/1010/140003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Bundy Mente Assassina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyfiB4AIQVOKSv2IJcvsNF5wrV.jpg" group-title="Filmes | Suspense ",Ted Bundy Mente Assassina
+http://dns.maxptv.net:2052/movie/PEM21/1010/140004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Men Faces do Medo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dGu0Ob8FwT3J0JXqEGxVAqRvMG.jpg" group-title="Filmes | Terror",Men Faces do Medo
+http://dns.maxptv.net:2052/movie/PEM21/1010/140005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Retroceder Nunca Render-se Jamais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOSzRomaRB9BuSnBC8qhg7Kjm8q.jpg" group-title="Filmes | Acao",Retroceder Nunca Render-se Jamais
+http://dns.maxptv.net:2052/movie/PEM21/1010/140006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tapete Vermelho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh8PPoN82hV73GOfwZ6LD14Q1zp.jpg" group-title="Filmes | Nacionais",Tapete Vermelho
+http://dns.maxptv.net:2052/movie/PEM21/1010/140007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tres Ladrões e um Bebe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jIi7Y8q2cERMfebWWjfGuh9IqF.jpg" group-title="Filmes | Acao",Tres Ladrões e um Bebe
+http://dns.maxptv.net:2052/movie/PEM21/1010/140008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raizes da Ambição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSX6HqUJM0Caxm4hK5N2EAPbLaV.jpg" group-title="Filmes | Faroeste",Raizes da Ambição
+http://dns.maxptv.net:2052/movie/PEM21/1010/140009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate Impossivel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnJKVIvCN6mNLilpPkJjDTqrX0d.jpg" group-title="Filmes | Guerra",Resgate Impossivel
+http://dns.maxptv.net:2052/movie/PEM21/1010/140010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrevivente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i87ZhhIXO4Z15np1lhGNQXLzwBS.jpg" group-title="Filmes | Suspense ",Sobrevivente
+http://dns.maxptv.net:2052/movie/PEM21/1010/140011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Risco Imediato" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgbk730W1oUBsyjIeZQyIFJWAPr.jpg" group-title="Filmes | Suspense ",Risco Imediato
+http://dns.maxptv.net:2052/movie/PEM21/1010/140012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suite Francesa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tXfSooFaJLzQFi20iT8LgdOBfu.jpg" group-title="Filmes | Romance",Suite Francesa
+http://dns.maxptv.net:2052/movie/PEM21/1010/140013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Sobreviventes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Amq83pZPEFKhWIAsbtQk5CTYq2N.jpg" group-title="Filmes | Ficcao Cientifica",Os Sobreviventes
+http://dns.maxptv.net:2052/movie/PEM21/1010/140014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Santos e Soldados A Ultima Missao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdOQbf45hT4xLM5rKniPMKqem5K.jpg" group-title="Filmes | Guerra",Santos e Soldados A Ultima Missao
+http://dns.maxptv.net:2052/movie/PEM21/1010/140015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pistoleiros Vingança Sem Perdão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82r95zHrVDpu3EdaXTZhHd4zbAt.jpg" group-title="Filmes | Faroeste",Pistoleiros Vingança Sem Perdão
+http://dns.maxptv.net:2052/movie/PEM21/1010/140016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Ultimos Dias De Billy The Kid" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snRJEmWNtPKkkwbGnSnFl2mn3kP.jpg" group-title="Filmes | Faroeste",Os Ultimos Dias De Billy The Kid
+http://dns.maxptv.net:2052/movie/PEM21/1010/140017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem Para o Inferno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/de9i9mypj6k0Z71JTEUygmYFITA.jpg" group-title="Filmes | Terror",Viagem Para o Inferno
+http://dns.maxptv.net:2052/movie/PEM21/1010/140018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Amor do Passado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDQ1iuu3zFrTRUdZjzMt72nHclU.jpg" group-title="Filmes | Drama",Um Amor do Passado
+http://dns.maxptv.net:2052/movie/PEM21/1010/140019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sri Asih" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQSvpSCag0IIvPVtlgLZhJJe4LX.jpg" group-title="Filmes | Aventura",Sri Asih
+http://dns.maxptv.net:2052/movie/PEM21/1010/140020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Servos da Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aANY8gVcaKJBPX4haM01Fkjy0ED.jpg" group-title="Filmes | Suspense ",Servos da Guerra
+http://dns.maxptv.net:2052/movie/PEM21/1010/140021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querida Zoe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLyKCXea2INdSCyOlGOvDnR3feO.jpg" group-title="Filmes | Drama",Querida Zoe
+http://dns.maxptv.net:2052/movie/PEM21/1010/140022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Encontro com o Destino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjxzUEUFw1JijkVSDHC5ZxprJKb.jpg" group-title="Filmes | Romance",Um Encontro com o Destino
+http://dns.maxptv.net:2052/movie/PEM21/1010/140023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimo Ritual" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WpuwUQdH9f0Iow2H6GR6bNqAof.jpg" group-title="Filmes | Terror",O Ultimo Ritual
+http://dns.maxptv.net:2052/movie/PEM21/1010/140024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somente Voce" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMVITUa2UmPtBWtLAnxtYqSsAuv.jpg" group-title="Filmes | Romance",Somente Voce
+http://dns.maxptv.net:2052/movie/PEM21/1010/140025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Phobias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpecci4IooFiwMVGknhm8Jz2FHo.jpg" group-title="Filmes | Terror",Phobias
+http://dns.maxptv.net:2052/movie/PEM21/1010/140026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Estranho Segredo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJtwO5j1xEoWVntQWD6BExZ3Brp.jpg" group-title="Filmes | Terror",Um Estranho Segredo
+http://dns.maxptv.net:2052/movie/PEM21/1010/140027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sequestro em Miami" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhYepM1uWiDdGSBeKY5xAnYnsix.jpg" group-title="Filmes | Acao",Sequestro em Miami
+http://dns.maxptv.net:2052/movie/PEM21/1010/140028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5zqQAwi8GEWiqEs7Os9DDm2Myh.jpg" group-title="Filmes | Acao",Fuga
+http://dns.maxptv.net:2052/movie/PEM21/1010/140029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exorcismo no Vaticano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0uGT4YdGKDGYKvdfJsqM8xp0Bc.jpg" group-title="Filmes | Terror",Exorcismo no Vaticano
+http://dns.maxptv.net:2052/movie/PEM21/1010/140030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imperio Proibido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbUO3tYs0cckhwlDxBqyX7QiWND.jpg" group-title="Filmes | Suspense ",Imperio Proibido
+http://dns.maxptv.net:2052/movie/PEM21/1010/140031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Despertar da Fera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTSgYRNSoM4qXh8Tag0hXNJYli2.jpg" group-title="Filmes | Terror",O Despertar da Fera
+http://dns.maxptv.net:2052/movie/PEM21/1010/140032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ninja: O Guerreiro Imortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/529xZPDLvCb6BsxgO7zt5tBd7dS.jpg" group-title="Filmes | Acao",Ninja: O Guerreiro Imortal
+http://dns.maxptv.net:2052/movie/PEM21/1010/140033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Chamado de Deus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bW8MIUwwsVM1c4khSeaPGaBzrOx.jpg" group-title="Filmes | Comedia",O Chamado de Deus
+http://dns.maxptv.net:2052/movie/PEM21/1010/140034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morte Imediata" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sopOCy3yretEuUzLFmXNWb4pfiR.jpg" group-title="Filmes | Acao",Morte Imediata
+http://dns.maxptv.net:2052/movie/PEM21/1010/140035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encontrando o Amor em Nebraska" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egrAE9CDtKV3vgR9xWkuFvW9Ytg.jpg" group-title="Filmes | Romance",Encontrando o Amor em Nebraska
+http://dns.maxptv.net:2052/movie/PEM21/1010/140036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Furia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/peOmxRTPfGTRJx8NgAaAnLkiaLM.jpg" group-title="Filmes | Ficcao Cientifica",Furia
+http://dns.maxptv.net:2052/movie/PEM21/1010/140037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esteros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZOITmczDlONcq3alB2JK6h1eOB.jpg" group-title="Filmes | Drama",Esteros
+http://dns.maxptv.net:2052/movie/PEM21/1010/140038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Duelo Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otD1urhitVQlTs0j6UJqiJZnp2I.jpg" group-title="Filmes | Acao",O Duelo Final
+http://dns.maxptv.net:2052/movie/PEM21/1010/140039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lobo Guerreiro 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jii5bSMJMlU2AWYzOOdgo7r0P1m.jpg" group-title="Filmes | Guerra",Lobo Guerreiro 2
+http://dns.maxptv.net:2052/movie/PEM21/1010/140040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espada de Deus: A Ultima Cruzada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sasYy2Hl5uplpT7jwQflFDANZXm.jpg" group-title="Filmes | Terror",Espada de Deus: A Ultima Cruzada
+http://dns.maxptv.net:2052/movie/PEM21/1010/140041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="F20 Jovens e Perigosos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plarm6ZgH4OKmZU9DoeVZ7OaaTR.jpg" group-title="Filmes | Suspense ",F20 Jovens e Perigosos
+http://dns.maxptv.net:2052/movie/PEM21/1010/140042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Desejo Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mp2QTfbfLqydptBf5E2tmHYXosb.jpg" group-title="Filmes | Terror",O Desejo Final
+http://dns.maxptv.net:2052/movie/PEM21/1010/140043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KV1 Almas de Ferro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uEnKbYMSp3u5QoqaPo1uH4LVPN.jpg" group-title="Filmes | Guerra",KV1 Almas de Ferro
+http://dns.maxptv.net:2052/movie/PEM21/1010/140044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimo Heroi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/942A3wIwBXuegIaVUnclyhLqSaC.jpg" group-title="Filmes | Acao",O Ultimo Heroi
+http://dns.maxptv.net:2052/movie/PEM21/1010/140045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Limite do Perigo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDIf8Dna6tMobLb1bSBsrPAK8LP.jpg" group-title="Filmes | Drama",No Limite do Perigo (2019)
+http://dns.maxptv.net:2052/movie/PEM21/1010/140046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Despertar de Um Assassino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txABuWsMwUuhJ0lwkPxQroWsN7Z.jpg" group-title="Filmes | Acao",O Despertar de Um Assassino
+http://dns.maxptv.net:2052/movie/PEM21/1010/140047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca do Paraiso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpsjIxuGXRbiWPwRv0iDfOpXcwh.jpg" group-title="Filmes | Aventura",Em Busca do Paraiso
+http://dns.maxptv.net:2052/movie/PEM21/1010/140048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Herois do Ar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9j10Nd2HPUt6XDswmeSFkc8bp41.jpg" group-title="Filmes | Guerra",Herois do Ar
+http://dns.maxptv.net:2052/movie/PEM21/1010/140049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grito Silencioso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSaHpeEfAgxoqAo09aoYWc63dYF.jpg" group-title="Filmes | Terror",Grito Silencioso
+http://dns.maxptv.net:2052/movie/PEM21/1010/140050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Outro Lado da Lei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cw0izcXHFuOGwgaVmdoYZL6lDyf.jpg" group-title="Filmes | Faroeste",Do Outro Lado da Lei
+http://dns.maxptv.net:2052/movie/PEM21/1010/140051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimo Jogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55d6L2CYZuz5K3JQ5aDCd6NJc47.jpg" group-title="Filmes | Terror",O Ultimo Jogo
+http://dns.maxptv.net:2052/movie/PEM21/1010/140052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Castelo do Lobisomem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PsjLfJ0tdePq1whoSne7bddobp.jpg" group-title="Filmes | Terror",O Castelo do Lobisomem
+http://dns.maxptv.net:2052/movie/PEM21/1010/140053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tarde da Noite com o Diabo (Late Night with the Devil) (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSztDCheNJ1xc6QPorypfGL5Itz.jpg" group-title="Filmes | Terror",Tarde da Noite com o Diabo (Late Night with the Devil) (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/140054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Furia Primitiva (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziXIsqVTBrKajZpVEGKiSvot3gu.jpg" group-title="Filmes | Lancamentos",Furia Primitiva (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/140055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Invasao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wq8H7AZRdQZcc9VE6oVjRvDkAG.jpg" group-title="Filmes | Ficcao Cientifica",A Invasao
+http://dns.maxptv.net:2052/movie/PEM21/1010/140056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jack A Caixa Maldita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kejSfDi4eM9JcjdX1mEbMXDzju.jpg" group-title="Filmes | Terror",Jack A Caixa Maldita
+http://dns.maxptv.net:2052/movie/PEM21/1010/140057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JACK: A Caixa Maldita 2 O Despertar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRzhyPrwsfHxSKIvywkKw0Noy6D.jpg" group-title="Filmes | Terror",JACK: A Caixa Maldita 2 O Despertar
+http://dns.maxptv.net:2052/movie/PEM21/1010/140058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldicao do Titanic (Titanic 666)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA4irW4Pf9kntxTqv9rtlYZFzD9.jpg" group-title="Filmes | Terror",A Maldicao do Titanic (Titanic 666)
+http://dns.maxptv.net:2052/movie/PEM21/1010/140059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição de Hannah Stevenson" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCOMiPwygEPSuUjatADcLMDoRnL.jpg" group-title="Filmes | Terror",A Maldição de Hannah Stevenson
+http://dns.maxptv.net:2052/movie/PEM21/1010/140060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gravidez a Qualquer Custo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taa9cmX5pudYQ5Je5yoXpth6msq.jpg" group-title="Filmes | Comedia",Gravidez a Qualquer Custo
+http://dns.maxptv.net:2052/movie/PEM21/1010/140061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica Crise nas Infinitas Terras Parte 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsiDOIO4APrPQQ4xx8vJW8N0uHV.jpg" group-title="Filmes | Animacao",Liga da Justica Crise nas Infinitas Terras Parte 1
+http://dns.maxptv.net:2052/movie/PEM21/1010/140062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica Crise nas Infinitas Terras Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQJWjO5aw5N4uCoh6CYrxf1LePv.jpg" group-title="Filmes | Animacao",Liga da Justica Crise nas Infinitas Terras Parte 2
+http://dns.maxptv.net:2052/movie/PEM21/1010/140063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate em Alta Velocidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDfAnAM4eT460LtKpuYyuMx6a6a.jpg" group-title="Filmes | Acao",Resgate em Alta Velocidade
+http://dns.maxptv.net:2052/movie/PEM21/1010/140064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bombardeio a Roterda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0wlmX9tMW8hgASpIKFNmBjaehz.jpg" group-title="Filmes | Romance",Bombardeio a Roterda
+http://dns.maxptv.net:2052/movie/PEM21/1010/140065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Procura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUDIzM0mGXmvPtTCT8IGjKb7xh9.jpg" group-title="Filmes | Drama",A Procura
+http://dns.maxptv.net:2052/movie/PEM21/1010/140066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coragem para Vencer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAtkibhtvRBGrwRNraaqhrbEhV8.jpg" group-title="Filmes | Drama",Coragem para Vencer
+http://dns.maxptv.net:2052/movie/PEM21/1010/140067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei Guerreiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6XBvViXzWH1JRc5NW5WHNtyNmG.jpg" group-title="Filmes | Fantasia",O Rei Guerreiro
+http://dns.maxptv.net:2052/movie/PEM21/1010/140068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Circus Kane O Circo dos Horrores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHVWf5A4vsSG7gbCh0LGkayWYOM.jpg" group-title="Filmes | Terror",Circus Kane O Circo dos Horrores
+http://dns.maxptv.net:2052/movie/PEM21/1010/140069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jr3nB10cbgIR1wd4cHyrJTGH6I.jpg" group-title="Filmes | Terror",Depois do Apocalipse
+http://dns.maxptv.net:2052/movie/PEM21/1010/140070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Paixao em Seoul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ty26LUvetnhJ0C7AhJdehQhLaT.jpg" group-title="Filmes | Romance",Uma Paixao em Seoul
+http://dns.maxptv.net:2052/movie/PEM21/1010/140071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diversao a Tres" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQqcjb3rNKvtltvtzihUQcg05XQ.jpg" group-title="Filmes | Comedia",Diversao a Tres
+http://dns.maxptv.net:2052/movie/PEM21/1010/140072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deixando o Afeganistao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7ITNM3zLK6FhRlfG1yi0oIAQQv.jpg" group-title="Filmes | Guerra",Deixando o Afeganistao
+http://dns.maxptv.net:2052/movie/PEM21/1010/140073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Sem Limites" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsnZmL3oW0XUU9tICw7JB1zLa4m.jpg" group-title="Filmes | Suspense ",Amor Sem Limites
+http://dns.maxptv.net:2052/movie/PEM21/1010/140074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Passado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPvgiDbZ16wrB9CTaYtBBUuF4q8.jpg" group-title="Filmes | Drama",O Passado
+http://dns.maxptv.net:2052/movie/PEM21/1010/140075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Jornada de Perdão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WLBQK10hcRXNn37cbhPXSVAVEK.jpg" group-title="Filmes | Drama",Uma Jornada de Perdão
+http://dns.maxptv.net:2052/movie/PEM21/1010/140076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instinto Materno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAbreodoriF4LeyEjm3DrypFMTB.jpg" group-title="Filmes | Terror",Instinto Materno
+http://dns.maxptv.net:2052/movie/PEM21/1010/140077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Herança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQdtmJ8zIChKXAA0N1HQ07SgVo6.jpg" group-title="Filmes | Terror",A Herança
+http://dns.maxptv.net:2052/movie/PEM21/1010/140078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apache Junction Cidade Sem Lei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9K2LeeXnVIvtd6LworYwXNpp3v.jpg" group-title="Filmes | Faroeste",Apache Junction Cidade Sem Lei
+http://dns.maxptv.net:2052/movie/PEM21/1010/140079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Matador de Aluguel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wriuD6jAUrMHRuB8w0AcKrZRg5m.jpg" group-title="Filmes | Suspense ",O Matador de Aluguel
+http://dns.maxptv.net:2052/movie/PEM21/1010/140080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Código do Armagedom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtE3VJ0MjmfUrBgI4vbEERkwFMi.jpg" group-title="Filmes | Acao",Código do Armagedom
+http://dns.maxptv.net:2052/movie/PEM21/1010/140081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Falsidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWV026ImM9l7Q48LByGaNjbtHVr.jpg" group-title="Filmes | Suspense ",Falsidade
+http://dns.maxptv.net:2052/movie/PEM21/1010/140105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conferencia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3xi46qJs9kGAgsPrUj8DgGjjhc.jpg" group-title="Filmes | Guerra",A Conferencia
+http://dns.maxptv.net:2052/movie/PEM21/1010/140106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="So Pode Ser Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39fv15KHNn4rfAyuzl15WZcuRs0.jpg" group-title="Filmes | Romance",So Pode Ser Amor
+http://dns.maxptv.net:2052/movie/PEM21/1010/140107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cronos A Reliquia do Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DJJIGiICGojwQcoLKW6QXGg4Wg.jpg" group-title="Filmes | Nacionais",Cronos A Reliquia do Tempo
+http://dns.maxptv.net:2052/movie/PEM21/1010/140108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aranhas! Um Experimento Que Deu Errado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwWKxXedTIqWQ1bPXE4kkbjIjv8.jpg" group-title="Filmes | Suspense ",Aranhas! Um Experimento Que Deu Errado
+http://dns.maxptv.net:2052/movie/PEM21/1010/140109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armadilha Explosiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPzZu5hmNoS3X00ewINA9zQlfGp.jpg" group-title="Filmes | Suspense ",Armadilha Explosiva
+http://dns.maxptv.net:2052/movie/PEM21/1010/140110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aguas Negras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKWivvlvJxxJ56EHn557vIy29Sj.jpg" group-title="Filmes | Suspense ",Aguas Negras
+http://dns.maxptv.net:2052/movie/PEM21/1010/140111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sem Retorno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5oziYNRdgh8S3vb7fLvvvcfk0Q.jpg" group-title="Filmes | Guerra",Sem Retorno
+http://dns.maxptv.net:2052/movie/PEM21/1010/140112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca de um Milagre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV4RPHjdpR5Yfe4e6gpGjp13kW4.jpg" group-title="Filmes | Drama",Em Busca de um Milagre
+http://dns.maxptv.net:2052/movie/PEM21/1010/140113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Utimo Resgate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9K2TuO2e0B3hzVKon1ODrIHPSV5.jpg" group-title="Filmes | Guerra",O Utimo Resgate
+http://dns.maxptv.net:2052/movie/PEM21/1010/140114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Eterno Primeiro Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31h3yYXMvUhvr0rjMzpvnj9NwCN.jpg" group-title="Filmes | Romance",Meu Eterno Primeiro Amor
+http://dns.maxptv.net:2052/movie/PEM21/1010/140115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jade Black a Agente Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJiRnGm1m20u8lLhWiNVbVDsoKv.jpg" group-title="Filmes | Acao",Jade Black a Agente Secreta
+http://dns.maxptv.net:2052/movie/PEM21/1010/140116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="36 Horas de Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRUrER9xFIiLp2aMIJjCTEOU3VX.jpg" group-title="Filmes | Guerra",36 Horas de Guerra
+http://dns.maxptv.net:2052/movie/PEM21/1010/140117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçador de Mutantes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCxfoNHBQ8Pqrmnx5B0sYZMKt0j.jpg" group-title="Filmes | Ficcao Cientifica",Caçador de Mutantes
+http://dns.maxptv.net:2052/movie/PEM21/1010/140118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paulo de Tarso e A História do Cristianismo Primitivo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO7r7zgi5NU6I0pXf4jCSPRvHyU.jpg" group-title="Filmes | Religiao ",Paulo de Tarso e A História do Cristianismo Primitivo (2019)
+http://dns.maxptv.net:2052/movie/PEM21/1010/140119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paginas da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUUP3rKim1myvIlv2vmTlRQl8qL.jpg" group-title="Filmes | Terror",Paginas da Morte
+http://dns.maxptv.net:2052/movie/PEM21/1010/140120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frente a Frente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqhZOmHlARkWiHZmy6D2DRrrxlZ.jpg" group-title="Filmes | Acao",Frente a Frente
+http://dns.maxptv.net:2052/movie/PEM21/1010/140121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Carga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HSReOybjuKNzecbe2IocauIU5A.jpg" group-title="Filmes | Drama",A Carga
+http://dns.maxptv.net:2052/movie/PEM21/1010/140122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra de Anna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GkqmYpchZ24nOqIhqkdGAD01Y1.jpg" group-title="Filmes | Drama",A Guerra de Anna
+http://dns.maxptv.net:2052/movie/PEM21/1010/140123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vamps A Morte Não Existe para o Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1AE62xRiwbLpzqdvGA38O2T0uq.jpg" group-title="Filmes | Terror",Vamps A Morte Não Existe para o Amor
+http://dns.maxptv.net:2052/movie/PEM21/1010/140124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fora da Trilha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxzv8AG98NsBZh8qwDL0RZnE4br.jpg" group-title="Filmes | Acao",Fora da Trilha
+http://dns.maxptv.net:2052/movie/PEM21/1010/140125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacker Todo Crime Tem Um Inicio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DIKp3OVI2ZgiTFgxPIUCV6XriW.jpg" group-title="Filmes | Suspense ",Hacker Todo Crime Tem Um Inicio
+http://dns.maxptv.net:2052/movie/PEM21/1010/140126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Exorcismo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13L6D0LSZfiqgXXRcWcfugx32px.jpg" group-title="Filmes | Terror",O Exorcismo
+http://dns.maxptv.net:2052/movie/PEM21/1010/140127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1914 A Primeira Guerra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7E9ll8eoBcBpZYKb198omBkRo1W.jpg" group-title="Filmes | Guerra",1914 A Primeira Guerra
+http://dns.maxptv.net:2052/movie/PEM21/1010/140128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Haarlem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymR6acV1r6vbOxTwLUd8RNlVbip.jpg" group-title="Filmes | Aventura",A Batalha de Haarlem
+http://dns.maxptv.net:2052/movie/PEM21/1010/140129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Graus Abaixo de Zero" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvI3sE3LtUB87IvK6jNlkMwNo0V.jpg" group-title="Filmes | Ficcao Cientifica",100 Graus Abaixo de Zero
+http://dns.maxptv.net:2052/movie/PEM21/1010/140130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colonia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Acc3skjs4TGxF6G7VxG3WvVvbRr.jpg" group-title="Filmes | Ficcao Cientifica",A Colonia
+http://dns.maxptv.net:2052/movie/PEM21/1010/140131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Mais Procurado do Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhqK6fAizFwCqTS6wGFL8Bg8ww8.jpg" group-title="Filmes | Suspense ",O Homem Mais Procurado do Mundo
+http://dns.maxptv.net:2052/movie/PEM21/1010/140132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 Balas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMSYOBClCr8cQDxbYQaikqi5YG7.jpg" group-title="Filmes | Suspense ",6 Balas
+http://dns.maxptv.net:2052/movie/PEM21/1010/140133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fuga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDR8WXaxuy84S4Q6tAYyByZve7L.jpg" group-title="Filmes | Suspense ",A Fuga
+http://dns.maxptv.net:2052/movie/PEM21/1010/140134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iQONLfZmFDgyo6m8yQir64jO8Z.jpg" group-title="Filmes | Fantasia",A Bela e a Fera
+http://dns.maxptv.net:2052/movie/PEM21/1010/140135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassinato no Expresso Oriente (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzFu9AxTeuAKACHnJjflOQpNRjb.jpg" group-title="Filmes | Suspense ",Assassinato no Expresso Oriente (1974)
+http://dns.maxptv.net:2052/movie/PEM21/1010/140136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Culpado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JmNl927pzilMKGLs8u4wv7wGEJ.jpg" group-title="Filmes | Drama",O Culpado
+http://dns.maxptv.net:2052/movie/PEM21/1010/140160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Noite em Pacerville" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3M4m02AVz4gCil1e0I5Wiz8ETiK.jpg" group-title="Filmes | Suspense ",A Ultima Noite em Pacerville
+http://dns.maxptv.net:2052/movie/PEM21/1010/140367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="City Hunter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="Filmes | Acao",City Hunter
+http://dns.maxptv.net:2052/movie/PEM21/1010/140368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nao Volte Para Casa!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFQvabvW8dcnnRnTU5vFOwcmEXP.jpg" group-title="Filmes | Terror",Nao Volte Para Casa!
+http://dns.maxptv.net:2052/movie/PEM21/1010/140533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entre Mentiras e Segredos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cM0A65HoJ6sXnRFYvXjRH7SBCon.jpg" group-title="Filmes | Suspense ",Entre Mentiras e Segredos
+http://dns.maxptv.net:2052/movie/PEM21/1010/140534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segredos Nao Podem Ser Enterrados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5IpWbxBv6sSEGC4FLfA93aZcsA.jpg" group-title="Filmes | Terror",Segredos Nao Podem Ser Enterrados
+http://dns.maxptv.net:2052/movie/PEM21/1010/140535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuja da Luz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uRmvy5PIe6FysvbxxvVBfU7ffP.jpg" group-title="Filmes | Terror",Fuja da Luz (2022)
+http://dns.maxptv.net:2052/movie/PEM21/1010/140536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Chamas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dh0xebH7dT8keNFflIdjhqeiMVY.jpg" group-title="Filmes | Drama",Em Chamas
+http://dns.maxptv.net:2052/movie/PEM21/1010/140537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Fraude" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WBEMwjNXg7KnQGXS5ac6AwiOhf.jpg" group-title="Filmes | Suspense ",A Grande Fraude
+http://dns.maxptv.net:2052/movie/PEM21/1010/140538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Capitao" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glY7KE3sLWrVUTKbRS9kGlnz0or.jpg" group-title="Filmes | Aventura",Eu Capitao
+http://dns.maxptv.net:2052/movie/PEM21/1010/140539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg" group-title="Filmes | Lancamentos",Kung Fu Panda 4
+http://dns.maxptv.net:2052/movie/PEM21/1010/140540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vingança Esta na Moda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXNobPTdS2sDUTFGd6j4A7bluog.jpg" group-title="Filmes | Comedia",A Vingança Esta na Moda
+http://dns.maxptv.net:2052/movie/PEM21/1010/140580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atentado ao Hotel Taj Mahal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEon8Xtq6Kprw1FamyFEje2qkOk.jpg" group-title="Filmes | Suspense ",Atentado ao Hotel Taj Mahal
+http://dns.maxptv.net:2052/movie/PEM21/1010/140581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobreviventes - Depois do Terremoto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRkkFCyo0Y8aCBoPdBwu1oC9td2.jpg" group-title="Filmes | Lancamentos",Sobreviventes - Depois do Terremoto
+http://dns.maxptv.net:2052/movie/PEM21/1010/140582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sayen: A Caçadora" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mF6zKM7LUnEVYTLAlwoZlskdbQ.jpg" group-title="Filmes | Lancamentos",Sayen: A Caçadora
+http://dns.maxptv.net:2052/movie/PEM21/1010/140583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lua de Mel Inusitada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLjZ3QBL5nrDyaSg5T8vmYjb2RR.jpg" group-title="Filmes | Lancamentos",Lua de Mel Inusitada
+http://dns.maxptv.net:2052/movie/PEM21/1010/140584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em - A Baba Operação Game Over" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xrmp4Fx7jNFaYniVXmeIbH9i7Ue.jpg" group-title="Filmes | Comedia",Luccas Neto em - A Baba Operação Game Over
+http://dns.maxptv.net:2052/movie/PEM21/1010/140585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Lies Bleeding - O Amor Sangra (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SvswOeTAzVoUSU7wD9T8ZUUcmO.jpg" group-title="Filmes | Lancamentos",Love Lies Bleeding - O Amor Sangra (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/140588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla Minus One (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buvBq2zLP7CcJth8tjrI4znvfEO.jpg" group-title="Filmes | Lancamentos",Godzilla Minus One (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/140589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tartarugas Ate Lá Embaixo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDuWwxYxPwvtBadYcSkLP3dzOHd.jpg" group-title="Filmes | Lancamentos",Tartarugas Ate Lá Embaixo
+http://dns.maxptv.net:2052/movie/PEM21/1010/140643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="Filmes | Lancamentos",Lisa Frankenstein
+http://dns.maxptv.net:2052/movie/PEM21/1010/140645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Ideia de Voce" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg" group-title="Filmes | Lancamentos",Uma Ideia de Voce
+http://dns.maxptv.net:2052/movie/PEM21/1010/140647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paulinho Gogo em Top Love - Só e Bem Acompanhado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkaKeosG8cjWwU800jD6DQUf37X.jpg" group-title="Filmes | Lancamentos",Paulinho Gogo em Top Love - Só e Bem Acompanhado
+http://dns.maxptv.net:2052/movie/PEM21/1010/140648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arcadian (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNDWyLUK8pXNO5460ICAOVm2tHq.jpg" group-title="Filmes | Lancamentos",Arcadian (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/140649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oraculo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/laOpPREcTlDukttovlUGJ3Wmtb6.jpg" group-title="Filmes | Terror",Oraculo
+http://dns.maxptv.net:2052/movie/PEM21/1010/140688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vidas Passadas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toSI71gFF11VnLfz2uiNx6jjNUF.jpg" group-title="Filmes | Lancamentos",Vidas Passadas
+http://dns.maxptv.net:2052/movie/PEM21/1010/140689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bela e Rebelde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icjLDiTzcXgzzbiAu6AFbWL8FmH.jpg" group-title="Filmes | Lancamentos",Bela e Rebelde
+http://dns.maxptv.net:2052/movie/PEM21/1010/140690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Biscoito PopTart" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueZd5yhf27402SwDB2ieALhD1Vk.jpg" group-title="Filmes | Lancamentos",A Batalha do Biscoito PopTart
+http://dns.maxptv.net:2052/movie/PEM21/1010/140691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia Para Sempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77fwdB0FqWWOvNjEaOwIqMW58DM.jpg" group-title="Filmes | Romance",Um Dia Para Sempre
+http://dns.maxptv.net:2052/movie/PEM21/1010/140745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Which Brings Me to You" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gspoAZ5p7G7D83OU9UFOmKICejw.jpg" group-title="Filmes | Lancamentos",Which Brings Me to You
+http://dns.maxptv.net:2052/movie/PEM21/1010/140751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ritual" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/to3NxQoBCaqxbBDkJb3lPvhHpcN.jpg" group-title="Filmes | Terror",O Ritual
+http://dns.maxptv.net:2052/movie/PEM21/1010/140752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ritual (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFRTz69BvtqZa7VjkyNGehjVb6p.jpg" group-title="Filmes | Terror",O Ritual (2011)
+http://dns.maxptv.net:2052/movie/PEM21/1010/140753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abigail (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQFoHRmJLAlv5b2DNLGBISyxEuc.jpg" group-title="Filmes | Lancamentos",Abigail (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/141016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters: Apocalipse de Gelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boObGdocQS07Nu7IrettgA5oRTp.jpg" group-title="Filmes | Lancamentos",Ghostbusters: Apocalipse de Gelo
+http://dns.maxptv.net:2052/movie/PEM21/1010/141018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jade: Guerreira Solitaria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTjVhegRP6fruQHWuC0sL9zsqQz.jpg" group-title="Filmes | Lancamentos",Jade: Guerreira Solitaria
+http://dns.maxptv.net:2052/movie/PEM21/1010/141174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos dos Neandertais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jSrvyWRdaLhcZpQg4l3pVI0lZj.jpg" group-title="Filmes | Documentarios",Os Segredos dos Neandertais
+http://dns.maxptv.net:2052/movie/PEM21/1010/141175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meninas Nao Choram" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auK7oaHT12JZMjauZeYXCS719cx.jpg" group-title="Filmes | Nacionais",Meninas Nao Choram
+http://dns.maxptv.net:2052/movie/PEM21/1010/141176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pequenos Grandes Astros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gE0jEkBlRVawbcOdlskPebe8TAS.jpg" group-title="Filmes | Comedia",Pequenos Grandes Astros
+http://dns.maxptv.net:2052/movie/PEM21/1010/141369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor à Venda (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NKPk1hk27BUWprS6PLAYJjfDMF.jpg" group-title="Filmes | Suspense ",Amor à Venda (2021)
+http://dns.maxptv.net:2052/movie/PEM21/1010/141370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Vida: A História de Nicholas Winton" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o65cLhzXPp9nBb5RvKRqLfZiMcH.jpg" group-title="Filmes | Drama",Uma Vida: A História de Nicholas Winton
+http://dns.maxptv.net:2052/movie/PEM21/1010/141371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Som da Juventude" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cu51AisQ4woWWBgUDe2ZjrM01q.jpg" group-title="Filmes | Drama",O Som da Juventude
+http://dns.maxptv.net:2052/movie/PEM21/1010/141372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Dificil Recomeço" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHKV2DloQT8Bwj59g1zJplBZ0qS.jpg" group-title="Filmes | Suspense ",Um Dificil Recomeço
+http://dns.maxptv.net:2052/movie/PEM21/1010/141373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimo Sol" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9X1KTfm09AJj4r6lQJkfNccPP2.jpg" group-title="Filmes | Drama",O Ultimo Sol
+http://dns.maxptv.net:2052/movie/PEM21/1010/141374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Triangulo da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/it9D3yvCyAmNfqp6zz9lhh4dR97.jpg" group-title="Filmes | Acao",O Triangulo da Morte
+http://dns.maxptv.net:2052/movie/PEM21/1010/141375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garotas em Fuga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWJXbCDnbZ3dptB1jibZBraqmRL.jpg" group-title="Filmes | Comedia",Garotas em Fuga
+http://dns.maxptv.net:2052/movie/PEM21/1010/141376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shayda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71uGrqjqI4uyN2M9VpoOVqOoukC.jpg" group-title="Filmes | Drama",Shayda
+http://dns.maxptv.net:2052/movie/PEM21/1010/141377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colateral (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg" group-title="Filmes | Lancamentos",Colateral (2024)
+http://dns.maxptv.net:2052/movie/PEM21/1010/141378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mae da Noiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gnzZDWfxizydSnjjRX36pW88nw.jpg" group-title="Filmes | Lancamentos",A Mae da Noiva
+http://dns.maxptv.net:2052/movie/PEM21/1010/141379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shaitaan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg" group-title="Filmes | Suspense ",Shaitaan
+http://dns.maxptv.net:2052/movie/PEM21/1010/141380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Davi: Um Cara Comum da Bahia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoLltWSfNbH3erey3tWd9Xp81TY.jpg" group-title="Filmes | Documentarios",Davi: Um Cara Comum da Bahia
+http://dns.maxptv.net:2052/movie/PEM21/1010/141381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem é Essa Garota?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y45tshg5BB1kkPzK6Vi5aeGcolN.jpg" group-title="Filmes | Comedia",Quem é Essa Garota?
+http://dns.maxptv.net:2052/movie/PEM21/1010/141382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rei Arthur" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZvrFx5oTxabIikuBh2XJq6Rc3u.jpg" group-title="Filmes | Aventura",Rei Arthur
+http://dns.maxptv.net:2052/movie/PEM21/1010/141385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla e Kong: O Novo Império (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kO6K9zEsKhNyqcrdGTSqAI6jrie.jpg" group-title="Filmes | Lancamentos",Godzilla e Kong: O Novo Império (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/141392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla e Kong: O Novo Império" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kO6K9zEsKhNyqcrdGTSqAI6jrie.jpg" group-title="Filmes | Lancamentos",Godzilla e Kong: O Novo Império
+http://dns.maxptv.net:2052/movie/PEM21/1010/141393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg" group-title="Filmes | Comedia",Jojo Rabbit
+http://dns.maxptv.net:2052/movie/PEM21/1010/141406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes da Dinastia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLJchs0WUBDlH2yIh7zBHxtTd1g.jpg" group-title="Filmes | Drama",Antes da Dinastia
+http://dns.maxptv.net:2052/movie/PEM21/1010/141407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wanted Man: Marcado Para Morrer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zgG1eNiQ4DrbYDIgEwNmDYRdrg.jpg" group-title="Filmes | Lancamentos",Wanted Man: Marcado Para Morrer
+http://dns.maxptv.net:2052/movie/PEM21/1010/141409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dona Lurdes: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKS02ZDoNbEPY1mMtnj1iwJJIxE.jpg" group-title="Filmes | Lancamentos",Dona Lurdes: O Filme
+http://dns.maxptv.net:2052/movie/PEM21/1010/141410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thelma O Unicornio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxImUTwhiHII8QvQCgxQoxCqpkK.jpg" group-title="Filmes | Lancamentos",Thelma O Unicornio
+http://dns.maxptv.net:2052/movie/PEM21/1010/141429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rivais (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1j3evHiwrGiQ6e9h1l9r66uo29.jpg" group-title="Filmes | Lancamentos",Rivais (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/141431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paranoia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atL5uJGwq15C4Xq7PbFcAnDz6zK.jpg" group-title="Filmes | Suspense ",Paranoia
+http://dns.maxptv.net:2052/movie/PEM21/1010/141432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ultimo Boy Scout: O Jogo da Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYa5YGTHDmg5ikYJwOh3fyeMvjC.jpg" group-title="Filmes | Acao",O Ultimo Boy Scout: O Jogo da Vingança
+http://dns.maxptv.net:2052/movie/PEM21/1010/141433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite Muito Louca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuDxVQ4vKDIRY8Gu5tLrZgTocKH.jpg" group-title="Filmes | Comedia",Uma Noite Muito Louca
+http://dns.maxptv.net:2052/movie/PEM21/1010/141434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Visoes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ri54sRKimZO0HmzjKnyzUshGZDK.jpg" group-title="Filmes | Suspense ",Visoes
+http://dns.maxptv.net:2052/movie/PEM21/1010/141435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poder Policial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nYbyTa3w8Ijid53exglHX25A3x.jpg" group-title="Filmes | Documentarios",Poder Policial
+http://dns.maxptv.net:2052/movie/PEM21/1010/141436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Falcao Manteiga de Amendoim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGNG2ActRe7eFL082KDdXl8Otpm.jpg" group-title="Filmes | Aventura",O Falcao Manteiga de Amendoim
+http://dns.maxptv.net:2052/movie/PEM21/1010/141437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Golden Kamuy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbW1DV9gPNeXvhwqvJtcRVSPk5C.jpg" group-title="Filmes | Lancamentos",Golden Kamuy
+http://dns.maxptv.net:2052/movie/PEM21/1010/141459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joika: Uma Americana no Bolshoi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79s50ORnmW7gUCiMULFD91uPXQr.jpg" group-title="Filmes | Lancamentos",Joika: Uma Americana no Bolshoi
+http://dns.maxptv.net:2052/movie/PEM21/1010/141474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Danificado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cXxEXhVGDMTMXspbAhHs2RXEA9.jpg" group-title="Filmes | Lancamentos",Danificado
+http://dns.maxptv.net:2052/movie/PEM21/1010/141475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Querida Oni" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aWmmoaN2h3UOv0H38HDMFvfc8.jpg" group-title="Filmes | Lancamentos",Minha Querida Oni
+http://dns.maxptv.net:2052/movie/PEM21/1010/141476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vendedor de Ilusões: O Caso Geração Zoe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7InavXeFVQvFrr9OWGx69PsEkr.jpg" group-title="Filmes | Documentarios",O Vendedor de Ilusões: O Caso Geração Zoe
+http://dns.maxptv.net:2052/movie/PEM21/1010/141477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="South Park: O Fim da Obesidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKeyw0r45QN0eQtn3FORo3fV2ma.jpg" group-title="Filmes | Lancamentos",South Park: O Fim da Obesidade
+http://dns.maxptv.net:2052/movie/PEM21/1010/141478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Prova de Coragem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31092QuIGplIz0Tmds5LytzU0yY.jpg" group-title="Filmes | Lancamentos",Uma Prova de Coragem
+http://dns.maxptv.net:2052/movie/PEM21/1010/141480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Wing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEMc5IK3rkAtKCMhzBe3CX2Wpds.jpg" group-title="Filmes | Lancamentos",Little Wing
+http://dns.maxptv.net:2052/movie/PEM21/1010/141482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Porto Seguro 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YNFjsa7vgACV9KINa0XOU0AlT2.jpg" group-title="Filmes | Lancamentos",Meu Porto Seguro 2
+http://dns.maxptv.net:2052/movie/PEM21/1010/141483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perra Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybbNggVtUaFWPeSwF4tQuqKhSAW.jpg" group-title="Filmes | Lancamentos",Perra Vida
+http://dns.maxptv.net:2052/movie/PEM21/1010/141484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atlas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg" group-title="Filmes | Lancamentos",Atlas
+http://dns.maxptv.net:2052/movie/PEM21/1010/141485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Vivem os Bravos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mydocslj2f1QCXMO07XidKWWTJ.jpg" group-title="Filmes | Nacionais",Como Vivem os Bravos
+http://dns.maxptv.net:2052/movie/PEM21/1010/141486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abigail" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQFoHRmJLAlv5b2DNLGBISyxEuc.jpg" group-title="Filmes | Lancamentos",Abigail
+http://dns.maxptv.net:2052/movie/PEM21/1010/141487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Duble (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AkiDy6DVlfhJusglf6tvifX6dB.jpg" group-title="Filmes | Lancamentos",O Duble (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/141488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra Civil (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIEjqQnnkxwUH102XU9R3QwRGEu.jpg" group-title="Filmes | Lancamentos",Guerra Civil (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/141489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKQ9kUOWAPTe7VpE6Z4s3V18r9J.jpg" group-title="Filmes | Documentarios",Depois da Morte
+http://dns.maxptv.net:2052/movie/PEM21/1010/141505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Evidencias do Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohN79eTvl1L6YvLJwYgWbkl7pw4.jpg" group-title="Filmes | Lancamentos",Evidencias do Amor
+http://dns.maxptv.net:2052/movie/PEM21/1010/141506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Blue Angels (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szLsJSuj641iPzsdKBXz03CZLlz.jpg" group-title="Filmes | Lancamentos",The Blue Angels (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/141509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Taro da Morte (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U4u7AKOddl3f9sbubHhiBcHBB4.jpg" group-title="Filmes | Lancamentos",O Taro da Morte (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/141510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Taro da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2U4u7AKOddl3f9sbubHhiBcHBB4.jpg" group-title="Filmes | Lancamentos",O Taro da Morte
+http://dns.maxptv.net:2052/movie/PEM21/1010/141511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate em Amsterda (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iw3zC4i0wA1k6qlMiYdM7AG92q5.jpg" group-title="Filmes | Lancamentos",Resgate em Amsterda (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/141512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate em Amsterda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iw3zC4i0wA1k6qlMiYdM7AG92q5.jpg" group-title="Filmes | Lancamentos",Resgate em Amsterda
+http://dns.maxptv.net:2052/movie/PEM21/1010/141513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Primeira Profecia (L)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybAcizMKEdeVreFj2R9effkF5Ii.jpg" group-title="Filmes | Lancamentos",A Primeira Profecia (L)
+http://dns.maxptv.net:2052/movie/PEM21/1010/141514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Primeira Profecia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybAcizMKEdeVreFj2R9effkF5Ii.jpg" group-title="Filmes | Lancamentos",A Primeira Profecia
+http://dns.maxptv.net:2052/movie/PEM21/1010/141799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rivais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1j3evHiwrGiQ6e9h1l9r66uo29.jpg" group-title="Filmes | Lancamentos",Rivais
+http://dns.maxptv.net:2052/movie/PEM21/1010/141800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bionicos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns9Tr9fda1YuPK2k6BqwqmEOkgl.jpg" group-title="Filmes | Lancamentos",Bionicos
+http://dns.maxptv.net:2052/movie/PEM21/1010/141801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Verdadeiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o535yHsv9NU3hFne8ovGonXed3a.jpg" group-title="Filmes | Lancamentos",Amor Verdadeiro
+http://dns.maxptv.net:2052/movie/PEM21/1010/141802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Matar seu Marido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvyB5dIkRH1OJ0iOtxG88nY16hn.jpg" group-title="Filmes | Drama",Como Matar seu Marido
+http://dns.maxptv.net:2052/movie/PEM21/1010/141803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Cores do Mal: Vermelho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1h7CqxjZg3yreNVjXQaBdGMVaw.jpg" group-title="Filmes | Lancamentos",As Cores do Mal: Vermelho
+http://dns.maxptv.net:2052/movie/PEM21/1010/141804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contra o Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBfLxyzwCCACTieZ2NH41m0jilk.jpg" group-title="Filmes | Lancamentos",Contra o Mundo
+http://dns.maxptv.net:2052/movie/PEM21/1010/141806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duro de Atuar 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yTdtbtjlczr3fSoZWUcPkkaZSi.jpg" group-title="Filmes | Lancamentos",Duro de Atuar 2
+http://dns.maxptv.net:2052/movie/PEM21/1010/141807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turno Maldito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV2Y1vBMY8en0ckOzIAk2NHZU3W.jpg" group-title="Filmes | Lancamentos",Turno Maldito
+http://dns.maxptv.net:2052/movie/PEM21/1010/141808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kali Anjo Vingador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npYnwimjiKqWfg4Y9A1OoiBhmoU.jpg" group-title="Filmes | Lancamentos",Kali Anjo Vingador
+http://dns.maxptv.net:2052/movie/PEM21/1010/141809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Parte de Voce" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCcj7xbFJSusdfHRHh4RNtlYjIL.jpg" group-title="Filmes | Lancamentos",Uma Parte de Voce
+http://dns.maxptv.net:2052/movie/PEM21/1010/141810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nelly Rapp e o Espelho da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvVs7Oy4NgyOtQ6bz9081xhzjQx.jpg" group-title="Filmes | Aventura",Nelly Rapp e o Espelho da Morte
+http://dns.maxptv.net:2052/movie/PEM21/1010/141838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla Minus One" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XSOyim1pivuSHQqlrDj5gj2J5w.jpg" group-title="Filmes | Lancamentos",Godzilla Minus One
+http://dns.maxptv.net:2052/movie/PEM21/1010/141839.mp4
+
